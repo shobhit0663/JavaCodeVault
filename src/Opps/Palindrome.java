@@ -1,4 +1,4 @@
-package Basics_Java;
+package Opps;
 
 public class Palindrome {
 

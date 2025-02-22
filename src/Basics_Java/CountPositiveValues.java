@@ -10,7 +10,7 @@ int flag = 0;
 			flag++;
 		}
 		
-	}
+	} 
 	System.out.println(flag);
 	
 		// Type your code below
