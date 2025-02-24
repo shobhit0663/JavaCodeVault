@@ -11,10 +11,7 @@ public class SwappNumber {
 		b = a-b;
 		a = a - b ;
 		
-// using third variable 
-//		int temp = a;
-//		a = b;
-//		b = temp;
+//    using third variable     		int temp = a;    		a = b;    		b = temp;
 		
 		
 		System.out.println(a);
